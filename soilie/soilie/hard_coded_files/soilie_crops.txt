@@ -1,0 +1,10 @@
+Tomatoes|Oats,Winter-Rye,Crimson-Clover
+Almonds|Winter-Pea,Brassicas,Crimson-Clover
+Grapes|Hairy-Vetch,Bur-Medic,Winter-Pea 
+Lettuce|Oats,Winter-Rye,Crimson-Clover 
+Strawberry|Winter-Pea,Hairy-Vetch,Red-Clover
+Rice|Sorghum-Sudangrass,Azolla,Winter-Pea
+Corn|Winter-Rye,Crimson-Clover,Sweet-Clover
+Wheat|Chickling-Vetch,Lentils,Chickpeas
+Cotton|Hairy-Vetch,Winter-Rye,Crimson-Clover
+Carrots|Winter-Pea,Oats,Winter-Rye
